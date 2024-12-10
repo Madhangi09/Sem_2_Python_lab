@@ -7,7 +7,7 @@ def factorial(n):
 num=int(input("Enter the number:"))
 print(f"The factorial is {factorial(num)}")
 
-#6odd or even
+#6counting the odd or even number (array)
 n=int(input("Enter the number of elements:"))
 arr=[]
 for i in range(n):
